@@ -7,4 +7,4 @@ Aqui disponibilizo alguns layouts e trabalhos de **UI/UX**.
 
 ## Learning Tools Mobile First
 
-<img src="./prints/learningtools/desktop/Login@2x.png" width="800px">
+<img src="./prints/learningtools/capa.png" width="800px">
